@@ -26,7 +26,7 @@
 #### Message Broker
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
 ![Mosquitto-MQTT](https://img.shields.io/badge/-MQTT-black?style=flat-square&logo=mosquitto)
-#### Relational Database
+#### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
