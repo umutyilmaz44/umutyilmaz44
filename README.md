@@ -42,6 +42,7 @@
 #### ⚙️ CI /CD
 ![Jenkins](https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=flat&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/JIRA%20-%232C5263.svg?&style=flat&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/-Redmine-red)
 #### 🔧 IDE
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
