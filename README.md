@@ -35,6 +35,7 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![ApacheSolR](https://img.shields.io/badge/-ApacheSolR-005571?style=flat-square&logo=ApacheSolR)
 ![InfluxDb](https://img.shields.io/badge/-InfluxDb-005571?style=flat-square&logo=influxdb)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 #### ⚙️ Version Control
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -43,10 +44,11 @@
 ![Jenkins](https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=flat&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/JIRA%20-%232C5263.svg?&style=flat&logo=jira&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Redmine-red)
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
 #### 🔧 IDE
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=white)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 #### 🔧 OS
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
