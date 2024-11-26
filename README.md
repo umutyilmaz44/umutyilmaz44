@@ -10,8 +10,6 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![GO](https://img.shields.io/badge/-Go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
